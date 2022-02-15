@@ -28,5 +28,55 @@
     "platforms": "Windows",
     "executableWindows": "Drastal Launcher.exe",
     "executableLinux": null
-  }
+  },
+  {
+        "name": "nightmare",
+        "displayName": "Nightmare",
+        "thumbnail": "http://nightmare.mageworkstudios.com/assets/themes/img/nightmare_game.png",
+        "cover": "http://nightmare.mageworkstudios.com/assets/themes/img/nightmare_game.png",
+        "screenshot": [
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMTEuanBn/original/IeqQrQ.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMTAuanBn/original/rpng4M.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMDkuanBn/original/UAKRmr.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMDguanBn/original/GsiHjw.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMDcuanBn/original/GqlL%2BG.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMjYucG5n/original/WauLJe.png",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMTEuanBn/original/IeqQrQ.jpg",
+                "type": "image"
+            }
+        ],
+        "description": "Many ages ago a primitive race of frog-like creatures called Anura decided they did not want to labor tirelessly in the heat of the sun anymore. But, to ease their labor they knew they would need help. So, using powerful magic imbued into orbs they formed the first humans from the elements. Some of these humans would serve the Anura with the utmost devotion, even venerating the Anura as gods in some localities, while others chose to decide their own fate and formed their own civilization throughout Sylvenus.",
+        "website": "https://nightmare.mageworkstudios.com",
+        "socials": {
+            "facebook": null,
+            "twitter": null,
+            "instagram": null,
+            "youtube": null
+        },
+        "newsApi": "https://mageworkstudios.com/api/games/news/Nightmare",
+        "downloadLink": "https://nightmare.mageworkstudios.com/launcher.zip",
+        "category": "Game",
+        "platforms": "Windows",
+        "executableWindows": "Nightmare.exe",
+        "executableLinux": null
+    }
 ]
