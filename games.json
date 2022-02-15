@@ -1,3 +1,32 @@
 [
-
+  {
+    "name": "drastal-online",
+    "displayName": "Drastal Online",
+    "thumbnail": "https://media.discordapp.net/attachments/695643450070138920/940971175054565466/unknown.png?width=1193&height=671",
+    "cover": "https://media.discordapp.net/attachments/695643450070138920/940971175054565466/unknown.png?width=1193&height=671",
+    "screenshot": [
+      {
+        "url": "https://www.drastalonline.fr/medias/img/Arrivage-Koni2021.PNG",
+        "type": "image"
+      },
+      {
+        "url": "https://www.drastalonline.fr/medias/img/Zone1-Koni2021.png",
+        "type": "image"
+      }
+    ],
+    "description": "Drastal Online est un MMORPG 100% GRATUIT en 2D avec des graphismes réalisés par notre graphiste. Ce jeu est bien sûr Francophone, et fréquemment mis à jour afin de fournir du nouveaux contenus régulièrement.",
+    "website": "https://www.drastalonline.fr/",
+    "socials": {
+      "facebook": "https://www.facebook.com/DrastalO",
+      "twitter": "https://twitter.com/DrastalOnline",
+      "instagram": "https://www.instagram.com/drastalonline/",
+      "youtube": null
+    },
+    "newsApi": null,
+    "downloadLink": "http://drastal-online.fr/Download/DrastalLauncher.rar",
+    "category": "Game",
+    "platforms": "Windows",
+    "executableWindows": "Drastal Launcher.exe",
+    "executableLinux": null
+  }
 ]
