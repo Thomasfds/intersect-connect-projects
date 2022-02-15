@@ -76,7 +76,7 @@
         "downloadLink": "https://nightmare.mageworkstudios.com/launcher.zip",
         "category": "Game",
         "platforms": "Windows",
-        "executableWindows": "Nightmare.exe",
+        "executableWindows": "Nightmare Launcher.exe",
         "executableLinux": null
     }
 ]
