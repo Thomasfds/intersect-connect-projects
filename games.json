@@ -80,8 +80,8 @@
         "executableLinux": null
     },
     {
-        "name": "DragonBall Z - La Rage des Saiyens",
-        "displayName": "DBZ LRDS",
+        "name": "dbz-lrds",
+        "displayName": "DragonBall Z - La Rage des Saiyens",
         "thumbnail": "https://cdn.discordapp.com/attachments/793551917182746644/943301664838938634/seo.png",
         "cover": "https://cdn.discordapp.com/attachments/793551917182746644/943301664838938634/seo.png",
         "screenshot": [
