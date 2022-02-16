@@ -114,7 +114,7 @@
         "downloadLink": "https://apps.thomasfds.fr/applications/dbz_lrds/dbz.zip",
         "category": "Game",
         "platforms": "Windows",
-        "executableWindows": "Intersect Client.exe",
+        "executableWindows": "Dragon Ball Z La Rage Des Saiyens.exe",
         "executableLinux": null
     }
 ]
