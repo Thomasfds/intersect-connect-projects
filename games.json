@@ -86,15 +86,19 @@
         "cover": "https://cdn.discordapp.com/attachments/793551917182746644/943301664838938634/seo.png",
         "screenshot": [
             {
-                "url": "https://dragonballzlrds.online/media/cache/general/assets/general/news/33640d5d3fd0fb6df2f8bac178d4cb5f.png",
+                "url": "https://media.discordapp.net/attachments/822818217017344021/943625067680645180/labo.png",
                 "type": "image"
             },
             {
-                "url":"https://cdn.discordapp.com/attachments/822818217017344021/943622869513031690/zone_2_vip.png",
+                "url":"https://media.discordapp.net/attachments/822818217017344021/943625081379225650/Namek.png",
                 "type":"image"
             },
             {
-                "url": "https://www.youtube.com/watch?v=luYYWhLI9IE",
+                "url":"https://i.ibb.co/6BQ2Lwv/west.png",
+                "type":"image"
+            },
+            {
+                "url": "https://www.youtube.com/embed/luYYWhLI9IE",
                 "type": "video"
             }
         ],
