@@ -1,27 +1,114 @@
 [
   {
+    "name": "drastal-online",
+    "displayName": "Drastal Online",
+    "thumbnail": "https://media.discordapp.net/attachments/695643450070138920/940971175054565466/unknown.png?width=1193&height=671",
+    "cover": "https://media.discordapp.net/attachments/695643450070138920/940971175054565466/unknown.png?width=1193&height=671",
+    "screenshot": [
+      {
+        "url": "https://www.drastalonline.fr/medias/img/Arrivage-Koni2021.PNG",
+        "type": "image"
+      },
+      {
+        "url": "https://www.drastalonline.fr/medias/img/Zone1-Koni2021.png",
+        "type": "image"
+      }
+    ],
+    "description": "Drastal Online est un MMORPG 100% GRATUIT en 2D avec des graphismes réalisés par notre graphiste. Ce jeu est bien sûr Francophone, et fréquemment mis à jour afin de fournir du nouveaux contenus régulièrement.",
+    "website": "https://www.drastalonline.fr/",
+    "socials": {
+      "facebook": "https://www.facebook.com/DrastalO",
+      "twitter": "https://twitter.com/DrastalOnline",
+      "instagram": "https://www.instagram.com/drastalonline/",
+      "youtube": null
+    },
+    "newsApi": null,
+    "downloadLink": "http://drastal-online.fr/Download/DrastalLauncher.zip",
+    "category": "Game",
+    "platforms": "Windows",
+    "executableWindows": "Drastal Launcher.exe",
+    "executableLinux": null
+  },
+  {
+        "name": "nightmare",
+        "displayName": "Nightmare",
+        "thumbnail": "http://nightmare.mageworkstudios.com/assets/themes/img/nightmare_game.png",
+        "cover": "http://nightmare.mageworkstudios.com/assets/themes/img/nightmare_game.png",
+        "screenshot": [
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMTEuanBn/original/IeqQrQ.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMTAuanBn/original/rpng4M.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMDkuanBn/original/UAKRmr.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMDguanBn/original/GsiHjw.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMDcuanBn/original/GqlL%2BG.jpg",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMjYucG5n/original/WauLJe.png",
+                "type": "image"
+            },
+            {
+                "url": "https://img.itch.zone/aW1hZ2UvNDM2NDQwLzY4OTkxMTEuanBn/original/IeqQrQ.jpg",
+                "type": "image"
+            }
+        ],
+        "description": "Many ages ago a primitive race of frog-like creatures called Anura decided they did not want to labor tirelessly in the heat of the sun anymore. But, to ease their labor they knew they would need help. So, using powerful magic imbued into orbs they formed the first humans from the elements. Some of these humans would serve the Anura with the utmost devotion, even venerating the Anura as gods in some localities, while others chose to decide their own fate and formed their own civilization throughout Sylvenus.",
+        "website": "https://nightmare.mageworkstudios.com",
+        "socials": {
+            "facebook": null,
+            "twitter": null,
+            "instagram": null,
+            "youtube": null
+        },
+        "newsApi": "https://mageworkstudios.com/api/games/news/Nightmare",
+        "downloadLink": "https://nightmare.mageworkstudios.com/launcher.zip",
+        "category": "Game",
+        "platforms": "Windows",
+        "executableWindows": "Nightmare Launcher.exe",
+        "executableLinux": null
+    },
+  {
+    "name": "drastal-online",
+    "displayName": "Drastal Online",
+    "thumbnail": "https://media.discordapp.net/attachments/695643450070138920/940971175054565466/unknown.png?width=1193&height=671",
+    "cover": "https://media.discordapp.net/attachments/695643450070138920/940971175054565466/unknown.png?width=1193&height=671",
     "name": "DragonBall Z - La Rage des Saiyens",
     "displayName": "DBZ LRDS",
     "thumbnail": "https://cdn.discordapp.com/attachments/793551917182746644/943303785093136384/icon.png",
     "cover": "https://cdn.discordapp.com/attachments/793551917182746644/943301664838938634/seo.png",
     "screenshot": [
-      {
-        "url": "https://dragonballzlrds.online/media/cache/general/assets/general/news/33640d5d3fd0fb6df2f8bac178d4cb5f.png",
-        "type": "image"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=luYYWhLI9IE",
-        "type": "video"
-      }
+        {
+            "url": "https://dragonballzlrds.online/media/cache/general/assets/general/news/33640d5d3fd0fb6df2f8bac178d4cb5f.png",
+            "type": "image"
+        },
+        {
+            "url": "https://www.drastalonline.fr/medias/img/Zone1-Koni2021.png",
+            "type": "image",
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=luYYWhLI9IE",
+            "type": "video"
+        }
     ],
-    "description": "Bienvenue sur le projet DBZ : La rage des saiyens, le jeu reprend la célèbre et fabuleuse histoire du mangaka de génie Akira toriyama pour le plus grand plaisir des fans, vous avez le choix durant votre aventure multijoueur d'incarnés les principaux saiyans de l'histoire.
-Le jeu est un MMORPG de ce fait vous êtes susceptible de rencontrer voir vous lier d'amitiés avec d'autres joueurs ou bien la jouer complètement solo selon vos préférences! Une fois sur le jeu vous devrez monter de niveau, remplir des quêtes annexes, participer à des donjons seul ou à plusieurs ,  alors n'attendez plus rejoignez nous ! ",
+    "description": "Bienvenue sur le projet DBZ : La rage des saiyens, le jeu reprend la célèbre et fabuleuse histoire du mangaka de génie Akira toriyama pour le plus grand plaisir des fans, vous avez le choix durant votre aventure multijoueur d'incarnés les principaux saiyans de l'histoire. Le jeu est un MMORPG de ce fait vous êtes susceptible de rencontrer voir vous lier d'amitiés avec d'autres joueurs ou bien la jouer complètement solo selon vos préférences! Une fois sur le jeu vous devrez monter de niveau, remplir des quêtes annexes, participer à des donjons seul ou à plusieurs ,  alors n'attendez plus rejoignez nous ! ",
     "website": "https://dragonballzlrds.online/",
     "socials": {
-      "facebook": "",
-      "twitter": "",
-      "instagram": "",
-      "youtube": "https://www.youtube.com/channel/UCnqVHCvUmTWCoIP4Sq0KN9w",
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "youtube": "https://www.youtube.com/channel/UCnqVHCvUmTWCoIP4Sq0KN9w",
     },
     "newsApi": null,
     "downloadLink": "https://dragonballzlrds.online/download/setup.exe",
@@ -29,4 +116,5 @@ Le jeu est un MMORPG de ce fait vous êtes susceptible de rencontrer voir vous l
     "platforms": "Windows",
     "executableWindows": "Intersect Client.exe",
     "executableLinux": null
-  },
+}
+]
