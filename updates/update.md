@@ -6,8 +6,7 @@
 - Update api service url,
 - Removed old update button,
 - Updating Updates URL,
-- Preparing for Update 1.1.0,
-- App icon update
+- Preparing for Update 1.1.0.
 --------------------
 # Patch note of update 1.0.8 at 03/20/2022
 
