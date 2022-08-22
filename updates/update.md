@@ -1,3 +1,14 @@
+# Patch note of update 1.0.9 at 03/20/2022
+
+- Update Electron version,
+- Update Electron updater version,
+- Changed Intersect Connect update system,
+- Update api service url,
+- Removed old update button,
+- Updating Updates URL,
+- Preparing for Update 1.1.0,
+- App icon update
+--------------------
 # Patch note of update 1.0.8 at 03/20/2022
 
 - App updates to support calls from an external app/website.
@@ -8,13 +19,13 @@
 --------------------
 # Patch note of update 1.0.6 at 03/11/2022
 
-* Bug fix
-* UI Improvements
+* Bug fix,
+* UI Improvements.
 --------------------
 # Patch note of update 1.0.5 at 03/01/2022
 
-* Bug fix
-* UI Improvements
+* Bug fix,
+* UI Improvements.
 --------------------
 # Patch note of update 1.0.4 at 02/22/2022
 
@@ -22,8 +33,8 @@
 --------------------
 # Patch note of update 1.0.3 at 02/22/2022
 
-* Add new api connected directly to web interface
-* Some bug fix
+* Add new api connected directly to web interface,
+* Some bug fix.
 --------------------
 # Patch note of update 1.0.1 at 02/16/2022
 
