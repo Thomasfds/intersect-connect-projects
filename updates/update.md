@@ -1,3 +1,9 @@
+# Patch note of update 1.1.1 at 01/24/2023
+
+- Allow launch/install game from Intersect-Connect.tk website
+- Some fix.
+--------------------
+
 # Patch note of update 1.1.0 at 01/24/2023
 
 - Update Electron version,
