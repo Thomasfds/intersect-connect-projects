@@ -1,3 +1,10 @@
+# Patch note of update 1.1.0 at 01/24/2023
+
+- Update Electron version,
+- Update Electron updater version,
+- Update main design,
+- Optimize some parameters.
+--------------------
 # Patch note of update 1.0.9 at 03/20/2022
 
 - Update Electron version,
